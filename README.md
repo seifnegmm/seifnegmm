@@ -1,4 +1,11 @@
-## Hi there 👋
+Stack:
+Java Node React
+
+MongoDB Postgres Apache Spark Apache Kafka
+
+AWS  Docker Jenkins GitLab CI
+
+Swagger Splunk Elasticsearch OpenTelemetry Prometheus Grafana
 
 <!--
 **seifnegmm/seifnegmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

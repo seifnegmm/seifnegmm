@@ -1,18 +1,6 @@
-## 👋 About Me
+How can I edit this readme for my github to show the standard current streak, ciontributions etc ## 👋 About Me
 
 Hi, I'm Seif, a passionate **Software Engineer** who loves building scalable backend systems, working with cloud-native technologies, and exploring the intersection of **data engineering** and **distributed systems**. I thrive in fast-paced environments and enjoy solving real-world problems through clean code, automation, and efficient system design.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="Seif's GitHub Stats" />
-
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=vue&hide_border=true" alt="Seif's GitHub Streak" />
-</div>
-
----
 
 ## 🚀 Tech Stack
 

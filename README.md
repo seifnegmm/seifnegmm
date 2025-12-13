@@ -1,4 +1,4 @@
-How can I edit this readme for my github to show the standard current streak, ciontributions etc ## 👋 About Me
+## 👋 About Me
 
 Hi, I'm Seif, a passionate **Software Engineer** who loves building scalable backend systems, working with cloud-native technologies, and exploring the intersection of **data engineering** and **distributed systems**. I thrive in fast-paced environments and enjoy solving real-world problems through clean code, automation, and efficient system design.
 

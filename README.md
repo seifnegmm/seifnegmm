@@ -2,6 +2,18 @@
 
 Hi, I'm Seif, a passionate **Software Engineer** who loves building scalable backend systems, working with cloud-native technologies, and exploring the intersection of **data engineering** and **distributed systems**. I thrive in fast-paced environments and enjoy solving real-world problems through clean code, automation, and efficient system design.
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="Seif's GitHub Stats" />
+
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=vue&hide_border=true" alt="Seif's GitHub Streak" />
+</div>
+
+---
+
 ## 🚀 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -29,20 +41,3 @@ Hi, I'm Seif, a passionate **Software Engineer** who loves building scalable bac
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-3D4797?style=flat&logo=opentelemetry&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-
-
-
-<!--
-**seifnegmm/seifnegmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

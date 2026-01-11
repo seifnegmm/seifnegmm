@@ -1,6 +1,8 @@
 ## 👋 About Me
 
-Hi, I'm Seif, a passionate **Software Engineer** who loves building scalable backend systems, working with cloud-native technologies, and exploring the intersection of **data engineering** and **distributed systems**. I thrive in fast-paced environments and enjoy solving real-world problems through clean code, automation, and efficient system design.
+Hi, I’m Seif — a passionate Software Engineer focused on building scalable, resilient backend systems and cloud-native architectures. I enjoy working at the intersection of distributed systems, data engineering, and AI-driven solutions, where performance, reliability, and intelligent automation matter most.
+
+I thrive in fast-paced environments, enjoy turning complex problems into elegant solutions, and strongly value clean code, observability, and automation. I’m equally comfortable designing APIs, optimizing data pipelines, and applying machine learning techniques to real-world systems.
 
 ## 🚀 Tech Stack
 
@@ -29,3 +31,7 @@ Hi, I'm Seif, a passionate **Software Engineer** who loves building scalable bac
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-3D4797?style=flat&logo=opentelemetry&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+
+## AI / Machine Learning & Data Science
+ - Data Science: Data preprocessing, feature engineering, exploratory analysis
+ - ML Tooling: Model inference, embeddings, vector databases, RAG pipelines
